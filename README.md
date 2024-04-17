@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning and Phyton.
 - 🌱 I’m currently learning Github and Phyton.
 - 💞️ I’m looking to collaborate on ...
-- 📫 [How to reach me] (www.linkedin.com/in/germânia-gonçalves)
+- 📫 How to reach me www.linkedin.com/in/germânia-gonçalves
 - ⚡ Fun fact: I am in a career transition to the data and technology area. I am an environmental engineer, singer and visual artist.
 
 <!---
