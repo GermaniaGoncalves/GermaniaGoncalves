@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GermaniaGoncalves
-- 👀 I’m interested in Machine Learning and Phyton.
+- 👀 I’m interested in Machine Learning, Phyton, Cyber Security and Backend.
 - 🌱 I’m currently learning Github and Phyton.
 - 💞️ I’m looking to collaborate on projects in Data Science, Machine Learning and Phyton.
 - 📫 How to reach me www.linkedin.com/in/germânia-gonçalves
